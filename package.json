@@ -1,0 +1,25 @@
+{
+  "name": "credex-ai-audit",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "jest"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "typescript": "latest"
+  }
+}
