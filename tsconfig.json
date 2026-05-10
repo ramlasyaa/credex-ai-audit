@@ -22,6 +22,7 @@
     "allowJs": true,
     "noEmit": true,
     "incremental": true,
+    "rootDir": ".",
     "plugins": [
       {
         "name": "next"
